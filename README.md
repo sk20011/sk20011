@@ -21,7 +21,7 @@ Un apasionado programador junior enfocado en el desarrollo web full-stack. Me en
 ![](https://github-contributor-stats.vercel.app/api?username=sk20011&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Meme Random
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://media.licdn.com/dms/image/C5622AQHeckC9uz2JHQ/feedshare-shrink_2048_1536/0/1661961812340?e=2147483647&v=beta&t=WUoIJvDHfN2MdjE2Ort0kDoFap38njNWqFabBHbo5EQ' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sk20011&icon=0&color=0)](https://visitcount.itsvg.in)
