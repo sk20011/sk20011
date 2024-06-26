@@ -1,5 +1,7 @@
 # 💫 Acerca de mí:
-👋 ¡Hola! Soy un apasionado programador junior enfocado en el desarrollo web full-stack. Me encanta aprender nuevas tecnologías y crear aplicaciones que sean eficientes y fáciles de usar. Actualmente estoy explorando diferentes frameworks y mejorando mis habilidades en frontend y backend. ¡Estoy emocionado por contribuir y crecer en la comunidad de desarrollo!<br>
+
+#👋 ¡Hola! Soy Solomon Kasparov!
+Un apasionado programador junior enfocado en el desarrollo web full-stack. Me encanta aprender nuevas tecnologías y crear aplicaciones que sean eficientes y fáciles de usar. Actualmente estoy explorando diferentes frameworks y mejorando mis habilidades en frontend y backend. ¡Estoy emocionado por contribuir y crecer en la comunidad de desarrollo!<br>
 
 
 ## 🌐 Redes Sociales:
