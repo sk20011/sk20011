@@ -1,7 +1,11 @@
 # 💫 Acerca de mí:
 
 <h1>👋 ¡Hola! Soy Solomon Kasparov!</h1>
-Me considero un apasionado programador junior con un gran interés en el desarrollo web full-stack y otras tecnologías relacionadas. Disfruto especialmente aprender nuevas herramientas y técnicas para crear aplicaciones eficientes y fáciles de usar. Actualmente estoy concentrado en mejorar mis habilidades tanto en el frontend como en el backend, explorando diversos frameworks y tecnologías modernas. Estoy entusiasmado por contribuir a proyectos innovadores y crecer profesionalmente en la comunidad de desarrollo.
+¡Hola! Soy un entusiasta programador junior con una pasión desbordante por el desarrollo web full-stack y todo lo que implique tecnología. Me fascina zambullirme en el mundo de las nuevas herramientas y técnicas, siempre buscando la manera de crear aplicaciones que no solo sean súper eficientes, sino también amigables y fáciles de usar.
+
+En este momento, mi foco está en perfeccionar mis habilidades tanto en el frontend como en el backend. Me encanta explorar y experimentar con distintos frameworks y las tecnologías más modernas que van apareciendo. Estoy lleno de energía y entusiasmo por unirme a proyectos innovadores y seguir creciendo como desarrollador en esta vibrante comunidad tech.
+
+¡Vamos a construir el futuro, una línea de código a la vez! 🚀
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solomon-kasparov/)
